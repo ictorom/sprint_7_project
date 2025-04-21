@@ -17,3 +17,5 @@ Esta es una aplicación web interactiva creada con Streamlit que permite explora
 
    ```bash
    streamlit run app.py
+
+## Link de Render: https://sprint-7-project-ui69.onrender.com
